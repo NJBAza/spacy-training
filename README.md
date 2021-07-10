@@ -1,1 +1,1 @@
-# spacy-training
+# spaCy-training
